@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This lab demonstrates the **post-installation configuration** of osTicket to replicate how a real IT help desk is structured and managed.  
+This lab demonstrates the post-installation configuration of osTicket to replicate how a real IT help desk is structured and managed.  
 After deploying osTicket, I configured roles, departments, teams, SLAs, and help topics to simulate a functioning support environment — similar to what Tier 1/2 IT support techs work with daily.<br />
 
 
@@ -100,6 +100,24 @@ Configure  help topics (For when users create a ticket)
 Admin Panel — Manage — Help Topics   Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset,  Other
 
 </p>
+
+##  Why This Matters
+Post-install configuration transforms osTicket from just a ticketing app into a functional support environment.  
+
+This mirrors real-world IT service desk setups where:
+- Departments & Teams** = ticket routing & ownership  
+- Roles = access control  
+- SLAs = service expectations & escalation  
+- Help Topics = user-friendly ticket categorization
+
+ Skills shown here are directly used in Tier 1 / Tier 2 IT roles.
+
+---
+
+## 🧪 Lessons Learned
+- Setting up SLAs and help topics greatly improves ticket flow clarity.
+- Proper team and role structure makes onboarding new agents easier.
+- Understanding the admin panel in osTicket builds a foundation for other enterprise ticketing systems 
 <br />
 
 
