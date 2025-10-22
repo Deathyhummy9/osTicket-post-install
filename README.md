@@ -4,7 +4,8 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This lab demonstrates the **post-installation configuration** of osTicket to replicate how a real IT help desk is structured and managed.  
+After deploying osTicket, I configured roles, departments, teams, SLAs, and help topics to simulate a functioning support environment — similar to what Tier 1/2 IT support techs work with daily.<br />
 
 
 
